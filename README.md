@@ -1,3 +1,26 @@
+# Disney Plus Gaurav Readme
+
+## <a href="https://disneyplusgaurav.web.app" target="_blank">See Output Link-1</a>
+or
+## <a href="https://disneyplusgaurav.firebase.com" target="_blank">See Output Link-2</a>
+
+## Description
+Here I demonstrate how disney works and how they looks like Don't miss to give me a star.
+Thankyou have a great day
+
+## 😍 Donate & Support
+
+We are developing this framework in open source community without financial planning but the maintenance & preparing updates at periodic times is Time-consuming.
+If you like this project and you want to give us peace of mind, you can support us by clicking this button :
+
+[<img alt="Buy me a Coffee Button" width=200 src="https://c5.patreon.com/external/logo/become_a_patron_button.png">](https://www.patreon.com/gauravmandal) &nbsp; [<img alt="Buy me a Coffee Button" width=200 src="https://cdn.buymeacoffee.com/buttons/default-yellow.png">](https://www.buymeacoffee.com/gauravmandall)
+
+## Build it today!
+
+#### PREREQUISITES:
+- <a href='https://firebase.google.com'>Sign up for a Firebase account </a>
+- <a href='https://nodejs.org/en/'>Install Node JS in your computer </a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
