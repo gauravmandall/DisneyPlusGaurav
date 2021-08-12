@@ -1,8 +1,6 @@
 # Disney Plus Gaurav Readme
 
-## <a href="https://disneyplusgaurav.web.app" target="_blank">See Output Link-1</a>
-or
-## <a href="https://disneyplusgaurav.firebase.com" target="_blank">See Output Link-2</a>
+## <a href="https://disneyplusgaurav.web.app" target="_blank">See Output</a>
 
 ## Description
 Here I demonstrate how disney works and how they looks like Don't miss to give me a star.
