@@ -11,7 +11,7 @@ Thankyou have a great day
 We are developing this framework in open source community without financial planning but the maintenance & preparing updates at periodic times is Time-consuming.
 If you like this project and you want to give us peace of mind, you can support us by clicking this button :
 
-[<img alt="Buy me a Coffee Button" width=200 src="https://c5.patreon.com/external/logo/become_a_patron_button.png">](https://www.patreon.com/gauravmandal) &nbsp; [<img alt="Buy me a Coffee Button" width=200 src="https://cdn.buymeacoffee.com/buttons/default-yellow.png">](https://www.buymeacoffee.com/gauravmandall)
+[<img alt="Buy me a Coffee Button" width=200 src="https://c5.patreon.com/external/logo/become_a_patron_button.png">](https://www.patreon.com/gauravmandall) &nbsp; [<img alt="Buy me a Coffee Button" width=200 src="https://cdn.buymeacoffee.com/buttons/default-yellow.png">](https://www.buymeacoffee.com/gauravmandall)
 
 ## Build it today!
 
